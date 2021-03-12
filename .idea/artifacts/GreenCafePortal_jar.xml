@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GreenCafePortal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GreenCafePortal_jar</output-path>
+    <root id="archive" name="GreenCafePortal.jar">
+      <element id="module-output" name="GreenCafePortal" />
+    </root>
+  </artifact>
+</component>
